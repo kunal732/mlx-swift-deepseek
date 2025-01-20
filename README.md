@@ -5,7 +5,7 @@ This Swift app demonstrates running the [DeepSeek-R1-Distill-Qwen-1.5B Model](ht
 > **Note**: Still trying to figure out a good way to classify the thought portion of model output vs the answer.
 
 ## Dependencies
-1. [MLX Model Manager](https://github.com/kunal732/MLX-Model-Manager): For managing and running CoreML models.
+1. [MLX Model Manager](https://github.com/kunal732/MLX-Model-Manager): For managing and running MLX models locally.
 2. [SwiftMarkdownUI](https://github.com/gonzalezreal/swift-markdown-ui): For rendering Markdown content.
 
 ## License
